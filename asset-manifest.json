@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.754cbd06.chunk.css",
-    "main.js": "/static/js/main.15af6a3f.chunk.js",
-    "main.js.map": "/static/js/main.15af6a3f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ba07d8fc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ba07d8fc.js.map",
-    "static/js/2.4f8ed155.chunk.js": "/static/js/2.4f8ed155.chunk.js",
-    "static/js/2.4f8ed155.chunk.js.map": "/static/js/2.4f8ed155.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.754cbd06.chunk.css.map": "/static/css/main.754cbd06.chunk.css.map",
-    "static/js/2.4f8ed155.chunk.js.LICENSE.txt": "/static/js/2.4f8ed155.chunk.js.LICENSE.txt",
-    "static/media/rocket.1fd57c08.png": "/static/media/rocket.1fd57c08.png"
+    "main.css": "/Oggi/static/css/main.754cbd06.chunk.css",
+    "main.js": "/Oggi/static/js/main.15af6a3f.chunk.js",
+    "main.js.map": "/Oggi/static/js/main.15af6a3f.chunk.js.map",
+    "runtime-main.js": "/Oggi/static/js/runtime-main.ee17317f.js",
+    "runtime-main.js.map": "/Oggi/static/js/runtime-main.ee17317f.js.map",
+    "static/js/2.4f8ed155.chunk.js": "/Oggi/static/js/2.4f8ed155.chunk.js",
+    "static/js/2.4f8ed155.chunk.js.map": "/Oggi/static/js/2.4f8ed155.chunk.js.map",
+    "index.html": "/Oggi/index.html",
+    "static/css/main.754cbd06.chunk.css.map": "/Oggi/static/css/main.754cbd06.chunk.css.map",
+    "static/js/2.4f8ed155.chunk.js.LICENSE.txt": "/Oggi/static/js/2.4f8ed155.chunk.js.LICENSE.txt",
+    "static/media/rocket.1fd57c08.png": "/Oggi/static/media/rocket.1fd57c08.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba07d8fc.js",
+    "static/js/runtime-main.ee17317f.js",
     "static/js/2.4f8ed155.chunk.js",
     "static/css/main.754cbd06.chunk.css",
     "static/js/main.15af6a3f.chunk.js"
